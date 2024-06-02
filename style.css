@@ -273,10 +273,10 @@ input:checked + label .description {
     background-image: url('./webdev.jpeg');
 }
 .card[for="c2"] {
-    background-image: url('./webdes.jpeg');
+    background-image: url('./appdev.jpeg');
 }
 .card[for="c3"] {
-    background-image: url('./appdev.jpeg');
+    background-image: url('./webdes.jpeg');
 }
 .card[for="c4"] {
     background-image: url('./scriri.jpeg');
